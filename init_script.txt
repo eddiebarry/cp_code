@@ -1,0 +1,7 @@
+
+cd Desktop/code
+alias gcc='gcc-8'
+alias cc='gcc-8'
+alias g++='g++-8'
+alias c++='c++-8'
+Open template.cpp
